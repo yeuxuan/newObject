@@ -98,7 +98,7 @@ Dentro do `App.jsx` você verá uma variável chamada `siteProps`. Este é um ob
 const siteProps = {
   name: "Alexandrie Grenier",
   title: "Web Designer & Content Creator",
-  email: "alex@example.com",
+  email: "yihua@example.com",
   gitHub: "microsoft",
   instagram: "microsoft",
   linkedIn: "satyanadella",
